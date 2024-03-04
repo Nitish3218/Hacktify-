@@ -1,2 +1,3 @@
 # Hacktify-
-Writeups for the labs
+Walkthrough of Hacktify Internship Labs
+
